@@ -32,6 +32,10 @@
   <a href="https://github.com/koeba7" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+ <!-- Discord Profile Link -->
+  <a href="https://discord.com/users/YourDiscordID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
