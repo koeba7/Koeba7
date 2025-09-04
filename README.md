@@ -2,7 +2,7 @@
 
 
 <!-- Gambar Memanjang (Banner) -->
-<img src="(https://moewalls.com/anime/the-shorekeeper-praying-wuthering-waves-live-wallpaper/)" alt="Banner Image" width="100%" />
+<img src="(https://wallhaven.cc/w/gpyzm7)" alt="Banner Image" width="100%" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
