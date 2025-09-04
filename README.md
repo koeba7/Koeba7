@@ -2,7 +2,9 @@
 
 
 <!-- Gambar Memanjang (Banner) -->
-<img src="https://github.com/koeba7/Koeba7/blob/koeba7/img/ww.jpg" alt="ArchLinux" width="120" style="border-radius:8px;" />
+<div align="center">
+  <img src="https://github.com/koeba7/Koeba7/blob/koeba7/img/ww.jpg" alt="ArchLinux" width="120" style="border-radius:8px;" />
+</div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
